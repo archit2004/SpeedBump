@@ -1,1 +1,5 @@
+secrets_config.py
 secrets.h
+__pycache__/
+*.pt
+*.mp4
